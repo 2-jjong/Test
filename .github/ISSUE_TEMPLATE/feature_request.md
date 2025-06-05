@@ -6,6 +6,8 @@ labels: enhancement
 assignees: ''
 ---
 
+## 기능 추가
+
 ## 설명
 
 어떤 기능을 추가하고 싶은지 간략히 설명해주세요.
